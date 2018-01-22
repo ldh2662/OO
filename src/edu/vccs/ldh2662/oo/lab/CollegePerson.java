@@ -18,7 +18,7 @@ public abstract class CollegePerson extends Person
 
    /**
     * constructor for College person
-    * @param ID ID of studentg
+    * @param ID ID of student
     */
    public CollegePerson(String ID) {
       this.ID = ID;
