@@ -17,7 +17,7 @@ public abstract class CollegePerson extends Person
    }
 
    /**
-    * constructor for College person
+    * constructor for College persons
     * @param ID ID of student
     */
    public CollegePerson(String ID) {
